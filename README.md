@@ -1,6 +1,6 @@
 # fby-toptal-challenge
 
-At Toptal we love a good coding challenge. As the Community Sponsors of f(by) we thought it would be fun to create a coding challenge for attendees to prove their coding cred.
+At Toptal we love a good coding challenge. As the Community Sponsors of <a href="http://fby.by/en/">f(by)</a> we thought it would be fun to create a coding challenge for attendees to prove their coding cred.
 
 Send your answers to asia@toptal.com before December 8 and the winner will be chosen from random from the entries. The winner can pick up the prize at f(by) at the Toptal table. First 10 people who will send the correct answer will get a discount for the conference ticket.
 
